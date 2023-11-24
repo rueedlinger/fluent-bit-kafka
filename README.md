@@ -1,8 +1,7 @@
 # Fluent Bit - Kafka / Elasticseach
 
 This is a sample setup for ingesting data from kafka into elasticsearch with fluentbit.
-
-The 
+Filesystem buffering is enabled for both fluentbit instances. 
 
 ## Pipeline
 
