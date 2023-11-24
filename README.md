@@ -25,6 +25,3 @@ stateDiagram-v2
     FluentBitSink --> Elasticseach
 ```
 
-
-
-## gtest
